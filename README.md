@@ -2,7 +2,7 @@
 
 🎓 **Engineering Student in Computer Networks and Telecommunications**
 ✉️ nesrine.chaouani@insat.ucar.tn  
-📫chaawaninesrine@gmail.com  
+📫chaouaninesrine@gmail.com 
 🔗 [LinkedIn](www.linkedin.com/in/nesrine-chaaouani) | [GitLab](https://gitlab.com/nesrine.chaouani)
 
 ---
